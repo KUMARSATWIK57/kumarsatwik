@@ -1,4 +1,4 @@
 # kumarsatwik
 this is my first git repository
 <br>
-author - kumar satwik
+author - kumar (apna college)
